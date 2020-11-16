@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Week02/Scenes/Breaker/Breaker_Level_1.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
